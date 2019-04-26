@@ -1,0 +1,1 @@
+print "Lucy is working"
